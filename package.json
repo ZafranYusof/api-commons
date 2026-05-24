@@ -1,0 +1,13 @@
+{
+  "name": "api-commons",
+  "version": "1.1.0",
+  "description": "Common HTTP client utilities and response formatters for Node.js APIs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": ["api", "http", "rest", "response", "nodejs"],
+  "author": "RaizenXxx",
+  "license": "MIT"
+}
